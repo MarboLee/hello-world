@@ -1,2 +1,3 @@
 # hello-world
-for front-end development learning
+For front-end development learning.
+I am a code-beginner who wants to work with front-end development tech-skills sonmeday.
